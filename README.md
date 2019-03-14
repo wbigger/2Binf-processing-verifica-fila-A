@@ -35,10 +35,10 @@ Punti progetto:
 - [ ] colorare il personaggio creato in accordo con il design
 - [ ] creare un metodo nella classe Personaggio per disegnarlo
 - [ ] disegnare il personaggio
-- [ ] far muovere il personaggio in accordo con il design
 - [ ] analogamente a quanto fatto finora, creare una classe `Trasfigurabile` con un metodo per disegnarlo
 - [ ] dichiarare e assegnare una variabile di tipo `Trasfigurabile` per la piuma e disegnare la piuma
-- [ ] far muovere la piuma e fermarla quando arriva vicino a Hermione __(fino a qui per la sufficienza)__
+- [ ] far muovere la piuma in accordo con il design
+- [ ] far fermare la piuma quando arriva vicino a Hermione __(fino a qui per la sufficienza)__
 
 - [ ] aggiungere due variabili di classe `x` e `y` di tipo `float` alla classe `Trasfigurabile`
 - [ ] aggiungere anche un metodo `accio()` per variare i valori di posizione
