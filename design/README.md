@@ -5,4 +5,4 @@ E' finita l'estate e Ron deve tornare al castello di Hogwarts per ricominciare l
 
 
 ## Wireframes
-![wireframe](./wireframe.jpg)
+![wireframe](./wireframe.jpeg)
