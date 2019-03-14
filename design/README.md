@@ -1,8 +1,7 @@
 # Design
 
 ## Brief 
-E' finita l'estate e Ron deve tornare al castello di Hogwarts per ricominciare l'anno scolastico. Ma durante il viaggio i suoi fratelli gli tirano un brutto scherzo!
-
+Hermione si sta esercitando con gli incantesimi. Con un incantesimo "Accio" avvicina una piuma, che poi trasforma in un colibri.
 
 ## Wireframes
 ![wireframe](./wireframe.jpeg)
