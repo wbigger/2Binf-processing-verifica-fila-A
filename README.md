@@ -41,7 +41,7 @@ Punti progetto:
 - [ ] far muovere la piuma e fermarla quando arriva vicino a Hermione __(fino a qui per la sufficienza)__
 
 - [ ] aggiungere due variabili di classe `x` e `y` di tipo `float` alla classe `Trasfigurabile`
-- [ ] aggiungere anche un metodo `sposta()` per variare i valori di posizione
+- [ ] aggiungere anche un metodo `accio()` per variare i valori di posizione
 - [ ] aggiungere il metodo `trasfigura()` alla classe `Trasfigurabile`, che modifica il valore alpha dell'oggetto
 - [ ] nella stessa posizione della piuma, disegnare il colibrì, anch'esso deve essere della classe `Trasfigurabile`
 - [ ] il valore iniziale di alpha del colibrì deve essere 0 (completamente trasparente)
