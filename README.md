@@ -1,5 +1,5 @@
-# Simulazione verifica Informatica: Processing
-Simulazione della verifica di laboratorio con Processing su classi, metodi e oggetti 3D.
+# Verifica Informatica: Processing
+Verifica di laboratorio con Processing su classi, metodi e oggetti 3D.
 Classe: 2Binf, a.s. 2018/2019
 
 Nella cartella `design` trovate le istruzioni per l'applicazione che dovrete implementare.
