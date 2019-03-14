@@ -31,23 +31,22 @@ Punti generali:
 Punti progetto:
 - [ ] creare una classe `Personaggio`
 - [ ] dichiarare una variabile di tipo `Personaggio`
-- [ ] assegnare alla variabile creata il modello `ron.obj`
-- [ ] colorare di rosso il personaggio creato
+- [ ] assegnare alla variabile creata il modello `hermione.obj`
+- [ ] colorare il personaggio creato in accordo con il design
 - [ ] creare un metodo nella classe Personaggio per disegnarlo
 - [ ] disegnare il personaggio
-- [ ] far muovere il personaggio da destra verso sinistra
-- [ ] analogamente a quanto fatto finora, creare una classe Edificio con un metodo per disegnarlo
-- [ ] creare una variabile per il castello e disegnare il castello
-- [ ] far fermare il personaggio quando arriva al castello __(fino a qui per la sufficienza)__
+- [ ] far muovere il personaggio in accordo con il design
+- [ ] analogamente a quanto fatto finora, creare una classe `Trasfigurabile` con un metodo per disegnarlo
+- [ ] creare una variabile di tipo `Trasfigurabile` per la piuma e disegnare la piuma
+- [ ] far muovere la piuma e fermarla quando arriva vicino a Hermione __(fino a qui per la sufficienza)__
 
-- [ ] aggiungere due variabili di classe `x` e `y`, di tipo `float`, alla classe `Personaggio`
-- [ ] aggiungere un metodo `avanza()` alla classe `Personaggio`, senza argomenti, che fa avanzare il personaggio verso il castello
-- [ ] creare anche un metodo `confundo()`, senza argomenti, che viene richiamato quando l'utente preme il mouse
-- [ ] aggiungere al metodo `confundo()` qualcosa che faccia confondere il personaggio, ad esempio i metodi di PShape `rotateX()` e `rotateY()`
-- [ ] far fermare il movimento in avanti del personaggio quando è confuso
-- [ ] per dare un'idea dello scorrere del tempo, far scurire il cielo verso il nero o un colore notturno
-- [ ] ruotare il personaggio in modo che guardi nella direzione del movimento
-
+- [ ] aggiungere due variabili di classe `x` e `y` di tipo `float` alla classe `Trasfigurabile`
+- [ ] aggiungere anche un metodo `sposta()` per variare i valori di posizione
+- [ ] aggiungere il metodo `trasfigura()` alla classe `Trasfigurabile`, che modifica il valore alpha dell'oggetto
+- [ ] nella stessa posizione della piuma, disegnare il colibrì, anch'esso deve essere della classe `Trasfigurabile`
+- [ ] il valore iniziale di alpha del colibrì deve essere 0 (completamente trasparente)
+- [ ] quando si preme la barra spaziatrice, fare in modo che lentamente la piuma svanisca e appaia il colibrì
+- [ ] fare in modo che la somma dei valori di alpha del colibrì e della piuma sia sempre 255
 
 Totale punti (generali+progetto): 20
 
